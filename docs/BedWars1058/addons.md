@@ -20,7 +20,7 @@ If you have issues with the addon, it will probably be better to go to any suppo
 - [LuckyBlock NTD - Add LuckyBlocks to your ingame spawners](https://www.spigotmc.org/resources/94872/) - by danirod12
 - [DiscordStats for BedWars1058 - Get the stats of your players on discord!](https://polymart.org/resource/1889/) - by STN-Studios
 - [Quests - A powerful quest system based for BedWars1058.](https://polymart.org/resource/1802) - by reussy
-- [Spectator Options - Add useful settings for spectators!](https://polymart.org/resource/1916/) - by CubeCrafter72
+- [Challenges Add-on - Enhance your gameplay with exciting challenges!](https://polymart.org/resource/challenges-bedwars1058-add-on.2455) - by Huh-Development
 
 ### Free Addons
 - [Spectate Addon - Implements the /spectate [player] command like big servers!](https://polymart.org/resource/4496/) - by AgentNoobff
@@ -62,6 +62,16 @@ If you have issues with the addon, it will probably be better to go to any suppo
 - [BossBar - A Bossbar Addon for BedWars1058.](https://polymart.org/resource/2881/) - by NotLew_x
 - [AdventureMode - Gamemode change utility for BedWars1058](https://polymart.org/resource/3296/) - by NotLew_x
 - [BedSteal - New Gamemode for BedWars1058](https://polymart.org/resource/3575/) - by Endern, Zuyte and smaks
+- [Spectator Options - Add useful settings for spectators!](https://polymart.org/resource/1916/) - by CubeCrafter72
+- [SpectatorOptions - Spectator utilities addon for bedwars1058](https://polymart.org/resource/bedwars1058-spectatoroptions.5293) - by Kiiya
+- [ReplayAddon - Replay addon for Bedwars1058.]((https://github.com/MrF1yn/ReplayAddon-BW1058) - by MrF1yn
+- [PrivateGames -Private games addon for BedWars1058 and BedWars2023](https://github.com/KKiiya/BedWars-PrivateGames) - by Kiiya
+- [HotbarManager - Hotbar manager addon for bedwars1058 and bedwars2023](https://github.com/KKiiya/BedWars-HotbarManager) - by Kiiya
+- [RushMode - BedWars1058 Rush Mode Addon](https://github.com/Lsy-291/BedWars1058-RushMode) - Lsy-291
+- [Rush - BedWars-Rush is a Dreams gamemode of the popular BedWars mini-game in Minecraft.](https://github.com/ritana5/BedWars-Rush) - Ritana5
+- [Challenges Addon - BedWars1058 Challenge is a addon for the BedWars1058](https://polymart.org/resource/bedwars1058-challenges-addon.4199) - by Starry_Killer
+- [Underworld - It adds a menu to the shop with items that cost souls](https://github.com/ritana5/BedWars-Underworld) - by Ritana5
+- [MegaBedWars - Like the bedwars of meagawalls](https://github.com/ArhamDev/BedWars1058Addon) - by YingHua522
 
 ## Pre-made Setups
 
